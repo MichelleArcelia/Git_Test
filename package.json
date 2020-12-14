@@ -1,0 +1,15 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index2.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/MichelleArcelia/Git_Test.git)"
+  },
+  "author": "Michelle Neptune",
+  "license": "ISC"
+}
