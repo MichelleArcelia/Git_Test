@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MichelleArcelia/Git_Test/issues"
   },
-  "homepage": "https://github.com/MichelleArcelia/Git_Test#readme"
+  "homepage": "https://github.com/MichelleArcelia/Git_Test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
